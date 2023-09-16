@@ -6,13 +6,13 @@ The first build will be on the console only. Along the way I will add Graphical 
 Additional features is also expected in the near future.
 
 ## Milestones:
-⬜ Adding core functionality
+⬜ Adding core functionality - **0%**
 
-⬜ Adding replayability
+⬜ Adding replayability - **0%**
 
-⬜ Adding simple GUI
+⬜ Adding simple GUI - **0%**
 
-⬜ Adding complex GUI
+⬜ Adding complex GUI - **0%**
 
 
 
