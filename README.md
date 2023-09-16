@@ -14,6 +14,8 @@ Additional features is also expected in the near future.
 
 ⬜ Adding complex GUI - **0%**
 
+⬜ Make it live on the web - **0%**
+
 
 
 *Notes: ✅ Completed     ⬜ On Progress*
