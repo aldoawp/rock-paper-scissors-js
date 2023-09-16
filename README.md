@@ -16,6 +16,5 @@ Additional features is also expected in the near future.
 
 ⬜ Make it live on the web - **0%**
 
-
-
-[^1]: *Notes: ✅ Completed     ⬜ On Progress*
+---
+*Notes: ✅ Completed     ⬜ On Progress*
