@@ -5,5 +5,10 @@ The first build will be on the console only. Along the way I will add Graphical 
 
 Additional features is also expected in the near future.
 
-## Timelines:
-Build V 1.0 
+## Milestones:
+⬜ Adding core functionality
+⬜ Adding replayability
+⬜ Adding simple GUI
+⬜ Adding complex GUI
+
+*Notes: ✅ Completed     ⬜ On Progress*
