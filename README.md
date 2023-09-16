@@ -7,8 +7,11 @@ Additional features is also expected in the near future.
 
 ## Milestones:
 ⬜ Adding core functionality
+
 ⬜ Adding replayability
+
 ⬜ Adding simple GUI
+
 ⬜ Adding complex GUI
 
 *Notes: ✅ Completed     ⬜ On Progress*
