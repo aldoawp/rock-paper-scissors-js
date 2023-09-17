@@ -15,7 +15,7 @@
       then the loser will be shown "... you lose, deal with it!"
 */
 
-// A function to return random number
+// A function to return random numbers
 function getRndInteger(min, max) {
     return Math.floor(Math.random() * (max - min)) + min;
 }
