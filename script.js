@@ -20,6 +20,7 @@ function getRndInteger(min, max) {
     return Math.floor(Math.random() * (max - min)) + min;
 }
 
+
 // Randomize the Computer selection
 function getComputerChoice() {
     const theChamp = ["rock", "paper", "scissors"];
@@ -28,19 +29,40 @@ function getComputerChoice() {
 }
 
 
-computerSelection = getComputerChoice();
-playerSelection = prompt("Pick your champ (Rock/Paper/Scissors): ").toLowerCase();
+// Add score system
+let playerScore = 0;
+let computerScore = 0;
 
-if (playerSelection == computerSelection) {
-    console.log("it's a tied!")
-} else if (playerSelection == "rock" && computerSelection == "scissors") {
-    console.log("Player is the winner!")
-} else if (playerSelection == "paper" && computerSelection == "rock") {
-    console.log("Player is the winner!")
-} else if (playerSelection == "scissors" && computerSelection == "paper") {
-    console.log("Player is the winner!")
-} else {
-    console.log("Computer is the winner!")
+function addScore(scorer) {
+    scorer == "player" ? playerScore++ : computerScore++;
 }
 
-console.log(`You: ${playerSelection} Computer: ${computerSelection}`);
+// Play function
+function playGame() {
+    computerSelection = getComputerChoice();
+    playerSelection = prompt("Pick your champ (Rock/Paper/Scissors): ").toLowerCase();
+    console.log(`You: ${playerSelection} Computer: ${computerSelection}`);
+
+    if (playerSelection == computerSelection) {
+        console.log("it's a tied!");
+    } else if (playerSelection == "rock" && computerSelection == "scissors") {
+        console.log("Player is the winner!");
+        addScore("player");
+    } else if (playerSelection == "paper" && computerSelection == "rock") {
+        console.log("Player is the winner!");
+        addScore("player");
+    } else if (playerSelection == "scissors" && computerSelection == "paper") {
+        console.log("Player is the winner!");
+        addScore("player");
+    } else {
+        console.log("Computer is the winner!");
+        addScore("computer");
+    }
+
+    console.log(`Player score: ${playerScore} | Computer Score: ${computerScore}`);
+}
+
+while (playerScore !== 5 && computerScore !== 5) {
+    playGame();
+    console.log("\n");
+}
