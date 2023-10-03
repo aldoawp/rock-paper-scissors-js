@@ -1,0 +1,95 @@
+[33mcommit e1221cfdcfbece4b28f997c46ae323c2cafd77ba[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aldo Arista <109035085+aldoawp@users.noreply.github.com>
+Date:   Mon Sep 18 17:55:25 2023 +0700
+
+    adding the score system and game loop
+
+[33mcommit 436b008341560e6afeb4e07fe5a216d11b71db6b[m
+Author: Aldo Arista <109035085+aldoawp@users.noreply.github.com>
+Date:   Mon Sep 18 01:08:30 2023 +0700
+
+    adding simple rts mechanic on web console using js
+
+[33mcommit 20aabca88cb0fa7fca8e5e3400afb16d6bff24aa[m
+Author: Aldo Arista <109035085+aldoawp@users.noreply.github.com>
+Date:   Mon Sep 18 01:07:20 2023 +0700
+
+    adding boilerplate and js script to HTML
+
+[33mcommit 1e04bcfc6f583bb9145ce8b0aedf7543a86d78e4[m
+Author: Aldo Arista <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:38:07 2023 +0700
+
+    add html, css, js files
+
+[33mcommit fd4390998d742aa9be689d9b30ad8ecefd7455fa[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:33:00 2023 +0700
+
+    Update README.md
+
+[33mcommit 7d3cd8ed20691dfa9520289ca6ec4d48c0568079[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:32:40 2023 +0700
+
+    Update README.md
+
+[33mcommit 27a0c857e8418ff0e95de987701ce6d176be7767[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:31:19 2023 +0700
+
+    Update README.md
+
+[33mcommit 7c40b54c6a3fc71b54e2dc8e49ae7374201ae78c[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:31:03 2023 +0700
+
+    Update README.md
+
+[33mcommit 69300e8f576c7871d5b022649cde9c0d1d90c0c0[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:30:32 2023 +0700
+
+    Update README.md
+
+[33mcommit 162f6b43d7d0d730c1106e49fba57014863d0329[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:29:32 2023 +0700
+
+    Update README.md
+
+[33mcommit 5f222cce2229b946c8f2bd3b449543e76c751665[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:29:01 2023 +0700
+
+    Update README.md
+
+[33mcommit 1f36ecc661f049347b7090134b29f9cbc9b7a30b[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:28:49 2023 +0700
+
+    Update README.md
+
+[33mcommit f7694e4d9b400a0028d9000fd11286849284e4b1[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:28:40 2023 +0700
+
+    Update README.md
+
+[33mcommit 24bb097b9ab84e0de6bbbd5adce5994a921352bd[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:28:23 2023 +0700
+
+    Update README.md
+
+[33mcommit fa5feabf9bdaf6b5cc4c0bc60d9e12c9baade2ea[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:25:33 2023 +0700
+
+    Update README.md
+
+[33mcommit 917b031f92e6430a526c8135ed2d9691c57ef56a[m
+Author: aldoawp <109035085+aldoawp@users.noreply.github.com>
+Date:   Sun Sep 17 01:21:40 2023 +0700
+
+    Initial commit
